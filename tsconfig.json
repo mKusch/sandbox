@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "baseUrl": "/",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es6",
+        "jsx": "react",
+        "sourceMap": false,
+        "lib": ["es6", "dom"],
+        "allowJs": false,
+        "typeRoots": ["node_modules/@types"],
+        "experimentalDecorators": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "alwaysStrict": true,
+        "forceConsistentCasingInFileNames": true,
+        "pretty": true,
+        "removeComments": true,
+        "noImplicitThis": true,
+        "strictPropertyInitialization": true,
+        "strictFunctionTypes": false,
+        "strictNullChecks": true
+    }
+}
